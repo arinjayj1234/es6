@@ -1,4 +1,4 @@
-.body_backgorund 
+.bg 
 {
     background-image:url(hOye.gif);
     background-position:center;
@@ -6,6 +6,9 @@
 }
 #myCanvas
 {
-   
+  border-width: 10px;
+  background-color: white; 
+  border-style: double;
+  border-color: indianred;
 }
 
